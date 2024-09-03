@@ -1,0 +1,10 @@
+/* src/components/Settings.css */
+.settings {
+    margin: 20px;
+  }
+  
+  #language-select {
+    margin-left: 10px;
+    padding: 5px;
+  }
+  
